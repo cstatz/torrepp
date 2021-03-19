@@ -3,7 +3,7 @@
 int main(int argc, char **argv) {
 
   // Hard implementation work.
-  std::cout << "Hello, world!" << std::endl;
+  std::cout << "Hello, World!" << std::endl;
   return 0;
 
 }
