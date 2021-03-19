@@ -2,7 +2,8 @@
 
 int main(int argc, char **argv) {
 
-  std::cout << "Hello, world!" << std::endl;
+  // Hard implementation work.
+  std::cout << "Hello, World!" << std::endl;
   return 0;
 
 }
